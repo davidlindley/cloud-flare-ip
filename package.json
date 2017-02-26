@@ -1,0 +1,23 @@
+{
+  "name": "cloud-flare-ip",
+  "version": "1.0.0",
+  "description": "An autoupdate for Cloudflare",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidlindley/cloud-flare-ip.git"
+  },
+  "author": "David Lindley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidlindley/cloud-flare-ip/issues"
+  },
+  "homepage": "https://github.com/davidlindley/cloud-flare-ip#readme",
+  "devDependencies": {
+    "cloudflare": "^1.1.1",
+    "ipify": "^1.1.0"
+  }
+}
